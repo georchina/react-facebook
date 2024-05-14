@@ -1,6 +1,6 @@
 {
-  "name": "react-facebook",
-  "version": "9.0.12",
+  "name": "react-facebook-geor",
+  "version": "9.0.15",
   "description": "Facebook components like a Login button, Like, Share, Comments, Embedded Post/Video, Messenger Chat and others",
   "author": {
     "name": "Zlatko Fedor",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/seeden/react-facebook.git"
+    "url": "git://github.com/georchina/react-facebook"
   },
   "keywords": [
     "react",
